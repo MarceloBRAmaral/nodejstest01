@@ -1,0 +1,23 @@
+{
+  "name": "nodeproj01",
+  "version": "1.0.0",
+  "description": "skillshare course project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloBRAmaral/nodejstest01.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku"
+  ],
+  "author": "MarceloBRAmaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarceloBRAmaral/nodejstest01/issues"
+  },
+  "homepage": "https://github.com/MarceloBRAmaral/nodejstest01#readme"
+}
